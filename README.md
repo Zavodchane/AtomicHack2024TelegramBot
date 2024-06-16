@@ -40,3 +40,6 @@ pip install -r requirements.txt
 ```shell
 python3 src/main.py
 ```
+
+### Другие репозитории
+- https://github.com/Zavodchane/AtomicHack2024Augmentation - репозитория для аугментации датасета
